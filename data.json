@@ -1,0 +1,29 @@
+[
+    [
+        {"nombre":"Procesador AMD Ryzen 5 4500","src":"./imgcategorias/procesadores/Procesador-1.jpg","precio":12000,"stock":35,"id":1},
+        {"nombre":"Procesador AMD Ryzen 7 5800x","src":"./imgcategorias/procesadores/Procesador-2.jpg","precio":32000,"stock":20,"id":2},
+        {"nombre":"Procesador Intel Core i5 10400F","src":"./imgcategorias/procesadores/Procesador-3.jpg","precio":13000,"stock":12,"id":3},
+        {"nombre":"Procesador Intel Core i9-10900K","src":"./imgcategorias/procesadores/Procesador-4.jpg","precio":37000,"stock":5,"id":4}
+    ],
+   
+
+    [
+        {"nombre":"Placa de Video Geforece 3070 RTX","src":"./imgcategorias/placavideo/PlacaGeforce-1.jpg","precio":103000,"stock":1,"id":5},
+        {"nombre":"Placa de Video Geforece 3080 RTX","src":"./imgcategorias/placavideo/PlacaGeforce-2.jpg","precio":97000,"stock":3,"id":6},
+        {"nombre":"Placa de Video RX Radeon 6600","src":"./imgcategorias/placavideo/PlacaGeforce-3.jpg","precio":86200,"stock":9,"id":7}
+    ],
+    
+
+    [
+        {"nombre":"Asus - Prime A520M-K","src":"./imgcategorias/mothers/Mothers-1.jpg","precio":17000,"stock":17,"id":8},
+        {"nombre":"ASRock A520M-HDV","src":"./imgcategorias/mothers/Mothers-2.jpg","precio":12000,"stock":12,"id":9},
+        {"nombre":"ASUS PRIME A320M-K","src":"./imgcategorias/mothers/Mothers-3.jpg","precio":10500,"stock":3,"id":10}
+    ],
+    
+
+    [
+        {"nombre":"Memoria OLOy DDR4 16GB Warhawk Black RGB 3000MHz","src":"./imgcategorias/ram/Ram-1.jpg","precio":15000,"stock":2,"id":11},
+        {"nombre":"Memoria Team DDR4 32GB 2666MHz T-Force Delta RGB White","src":"./imgcategorias/ram/Ram-2.jpg","precio":21000,"stock":7,"id":12},
+        {"nombre":"Memoria Team DDR4 8GB 3200MHz T-Force Delta RGB Black","src":"./imgcategorias/ram/Ram-3.jpg","precio":10500,"stock":3,"id":13}
+    ]
+]
